@@ -5,9 +5,9 @@ const Footer = () => {
         <
         div style = {
             { display: 'flex', justifyContent: 'center', alignItems: 'center', marginTop: '-20px', color: 'grey' }
-        } > By < a target = "_blank"
+        } > < a target = "_blank"
         rel = "noreferrer"
-        href = "https://github.com/Aryan-Sanghi-008" > Aryan Sanghi < /a></div >
+        href = "https://github.com/Aryan-Sanghi-008" > By Aryan Sanghi < /a></div >
         <
         /div>
     )
