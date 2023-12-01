@@ -69,7 +69,7 @@ const Login = () => {
         <
         div style = {
             { textShadow: "-1px -1px 100px rgb(0, 0, 255)" } } >
-        AnonyChat <
+        TalkSync <
         /div> <
         /Heading> <
         Footer / >
