@@ -1,8 +1,8 @@
-# [Syntext server](https://fortlaxhehe.onrender.com/)
+# [TalkSync server](https://fortlaxhehe.onrender.com/)
 
 ### Installation
 
-- Fork and clone [this](https://github.com/sambhavsaxena/syntext) repository make an instant copy of the content.
+- Fork and clone [this](talk-sync-ten.vercel.app/) repository make an instant copy of the content.
 - Switch to the server directory and proceed with the installation.
 - Alternatively, you can download the source and set it up with Github Desktop.
 - Open the root folder in the code editor you prefer, and run the following commands:
@@ -15,7 +15,7 @@
 
 Check out the [Getting Started](https://reactjs.org/docs/getting-started.html) page for a quick overview of the project structure.
 
-You can improve it by sending pull requests to [this repository](https://github.com/sambhavsaxena/syntext).
+You can improve it by sending pull requests to [this repository](talk-sync-ten.vercel.app/).
 
 ## Contributing
 
@@ -31,4 +31,4 @@ Read the React's [contributing guide](https://reactjs.org/contributing/how-to-co
 
 ### Good First Issues
 
-To help you get your feet wet and get you familiar with our contribution process, we have a list of [good first issues](https://github.com/sambhavsaxena/syntext/labels/good%20first%20issue) that contain bugs which have a relatively limited scope. This is a great place to get started <3.
+To help you get your feet wet and get you familiar with our contribution process, we have a list of [good first issues](https://github.com/Aryan-Sanghi-008/TalkSync/labels/good%20first%20issue) that contain bugs which have a relatively limited scope. This is a great place to get started <3.
